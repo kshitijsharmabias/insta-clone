@@ -1,0 +1,3 @@
+MiddleWare:- it is something that is to be executed and it modifies it before it reaches to actual route handler. It is basically 
+	used in protected type of data
+In react link is used instead of <a> and instead of href we use to
